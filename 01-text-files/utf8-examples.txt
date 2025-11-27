@@ -1,0 +1,21 @@
+UTF-8 Examples - Beyond ASCII!
+
+Emoji: 😀 😃 😄 😁 🚀 🌟 ⭐ 🎉
+Math: π ≈ 3.14159, √2 ≈ 1.414, ∞ ∑ ∫
+Currency: $ € £ ¥ ₹ ₽
+Arrows: → ← ↑ ↓ ↔ ⇒ ⇐
+Languages:
+  - Spanish: ñ á é í ó ú ¿ ¡
+  - French: é è ê ë à â ç
+  - German: ä ö ü ß
+  - Japanese: こんにちは 世界
+  - Chinese: 你好世界
+  - Arabic: مرحبا بالعالم
+  - Russian: Привет мир
+
+Box drawing: ┌─┐ │ │ └─┘
+Music: ♪ ♫ ♬ 🎵 🎶
+
+Each emoji uses 4 bytes!
+Some characters use 2-3 bytes.
+Basic ASCII still uses just 1 byte.

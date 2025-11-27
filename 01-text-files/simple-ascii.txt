@@ -1,0 +1,11 @@
+Hello, World!
+This is a simple ASCII text file.
+Every character here uses exactly 1 byte.
+
+Numbers: 0123456789
+Letters: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Lowercase: abcdefghijklmnopqrstuvwxyz
+Punctuation: .,!?;:'"()-
+
+ASCII codes range from 0 to 127.
+This means we can represent 128 different characters.

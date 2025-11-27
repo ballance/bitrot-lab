@@ -1,0 +1,8 @@
+product_id,name,price,category,in_stock
+1001,Laptop Computer,999.99,Electronics,yes
+1002,Wireless Mouse,24.99,Electronics,yes
+1003,Office Chair,149.99,Furniture,no
+1004,Desk Lamp,34.99,Furniture,yes
+1005,USB Cable,9.99,Electronics,yes
+1006,Notebook Set,12.99,Office Supplies,yes
+1007,Mechanical Keyboard,89.99,Electronics,yes
